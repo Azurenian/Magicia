@@ -1,0 +1,5 @@
+echo "playerdata/" >> .gitignore
+echo "stats/" >> .gitignore
+echo "advancements/" >> .gitignore
+echo "session.lock" >> .gitignore
+echo "level.dat_old" >> .gitignore
