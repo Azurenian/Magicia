@@ -35,12 +35,6 @@
     },
     "done": true
   },
-  "regions_unexplored:parent": {
-    "criteria": {
-      "load_in_world": "2025-02-19 13:01:55 +0800"
-    },
-    "done": true
-  },
   "lootr:root": {
     "criteria": {
       "always_true": "2025-02-19 13:01:54 +0800"
@@ -62,6 +56,12 @@
   "apotheosis:give_book": {
     "criteria": {
       "tick": "2025-02-19 13:01:54 +0800"
+    },
+    "done": true
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2025-02-19 13:01:55 +0800"
     },
     "done": true
   },
